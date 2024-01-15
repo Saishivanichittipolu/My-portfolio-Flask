@@ -19,7 +19,7 @@ python main.py<br>
 Open your browser and navigate to http://localhost:5000/portfolio<br>
 (I didnt yet deploy my project as of now)<br>
 
-Project Structure<br>
+<h2>Project Structure</h2><br>
 The project structure is organized as follows:<br>
   1)main.py: The main Python script containing the Flask application and routing logic.<br>
   2) templates/: Directory containing HTML templates, including index.html for the main portfolio page.<br>
@@ -27,13 +27,13 @@ The project structure is organized as follows:<br>
   4)images/: Images used in the portfolio.<br>
   5)assets/css/: Stylesheets for the portfolio.<br>
 
-Features<br>
+<h2>Features</h2><br>
   1)Bio Section: Learn about my background, skills, and passion for technology.<br>
   2)Projects Section: Explore various projects, including basic Python projects and web development projects.<br>
   3)Skills Section: View a list of skills I possess in web development and data analytics.<br>
   4)Get in Touch Section: Connect with me via email or social media.<br>
 
-Contributing:<br>
+<h2>Contributing:</h2><br>
 If you'd like to contribute to this portfolio project, feel free to:<br>
   1)Fork the repository.<br>
   2)Create a new branch for your feature or bug fix.<br>
