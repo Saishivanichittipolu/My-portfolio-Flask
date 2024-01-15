@@ -1,25 +1,23 @@
-Introduction
+<h2>Introduction</h2>
 Welcome to my personal portfolio repository! This project serves as a showcase of my skills in web development and data analytics. The portfolio is built using Python Flask for the backend, Bootstrap for the frontend, and incorporates various projects to demonstrate my proficiency in both realms.
 
-Quick Start
+<h2>Quick Start</h2>
 To run the portfolio locally, follow these steps:
 
-Clone the repository:
+1)Clone the repository:<br>
+Copy code<br>
+git clone https://github.com/Saishivanichittipolu/My-Portfolio-Flask.git<br>
 
-bash
-Copy code
-git clone https://github.com/Saishivanichittipolu/YourPortfolioRepository.git
-Install dependencies:
+2)Install dependencies:<br>
+Copy code below: <br>
+pip install -r requirements.txt <br>
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the Flask application:
 
-bash
-Copy code
-python main.py
-Open your browser and navigate to http://localhost:5000/portfolio
+3)Run the Flask application:<br>
+Copy code below<br>
+python main.py<br>
+Open your browser and navigate to http://localhost:5000/portfolio<br>
+(I didnt yet deploy my project as of now)<br>
 
 Project Structure<br>
 The project structure is organized as follows:<br>
