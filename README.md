@@ -23,7 +23,7 @@ Open your browser and navigate to http://localhost:5000/portfolio
 
 Project Structure
 The project structure is organized as follows:
-  1)main.py: The main Python script containing the Flask application and routing logic.
+  1)main.py: The main Python script containing the Flask application and routing logic.<br>
   2) templates/: Directory containing HTML templates, including index.html for the main portfolio page.
   3) static/: Directory holding static assets such as images and CSS files.
   4)images/: Images used in the portfolio.
